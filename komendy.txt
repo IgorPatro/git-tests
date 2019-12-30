@@ -7,6 +7,13 @@ git add <nazwa> - dodanie do śledzenia lub . czyli wszystkie
 git --help
 git restore - zwrot plików
 git checkout - powrót do pliku sprzed zmian
+git branch - lista branchy
+git branch <nazwa> - stworzenie nowego branchu
+git branch -d <nazwa> - usunięcie branchu
+git checkout -b <nazwa> - stworzenie branchu i przenisienie się tam
+git checkout <nazwa branchu> - przenisienie się do branchu
+
 
 
 clear - wyczyszczenie terminala
+q - wyście z loga
