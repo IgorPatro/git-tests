@@ -1,0 +1,12 @@
+git init - tworzenie respozytorium
+git status - status plików
+git --version - wersja
+gitk - commity w aplikacji
+git log - spis commitów w konsoli
+git add <nazwa> - dodanie do śledzenia lub . czyli wszystkie
+git --help
+git restore - zwrot plików
+git checkout - powrót do pliku sprzed zmian
+
+
+clear - wyczyszczenie terminala
