@@ -17,3 +17,6 @@ git checkout <nazwa branchu> - przenisienie się do branchu
 
 clear - wyczyszczenie terminala
 q - wyście z loga
+
+
+dopisuje tekst do nowego commitu
